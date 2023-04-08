@@ -1,0 +1,5 @@
+# Project exclude paths
+/SH-admin/target/
+/SH-blog/target/
+/SH-framework/target/
+/target/
